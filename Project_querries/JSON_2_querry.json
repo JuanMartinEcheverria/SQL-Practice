@@ -1,0 +1,892 @@
+[
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "sql"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "python"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "postgresql"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "spark"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "airflow"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "kafka"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "linux"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "kubernetes"
+  },
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-08-18 11:12:18",
+    "company_name": "Software Mind",
+    "skills": "docker"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "scala"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "java"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "golang"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "aws"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "gcp"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "spark"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "kafka"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "jenkins"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "kubernetes"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-03-23 08:40:46",
+    "company_name": "MediaLab",
+    "skills": "gitlab"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "python"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "scala"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "java"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "azure"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "databricks"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "aws"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "bigquery"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "redshift"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "gcp"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "spark"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "147500.0",
+    "job_posted_date": "2023-01-05 01:48:19",
+    "company_name": "Dialpad",
+    "skills": "gdpr"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "python"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "scala"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "java"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "aws"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "redshift"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "gcp"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "alteryx"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "jenkins"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "134241.0",
+    "job_posted_date": "2023-08-11 18:14:03",
+    "company_name": "Syngenta Group",
+    "skills": "flow"
+  },
+  {
+    "job_id": 1114348,
+    "job_title": "Data Scientist Manager",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "132500.0",
+    "job_posted_date": "2023-02-03 18:50:18",
+    "company_name": "Visa",
+    "skills": "python"
+  },
+  {
+    "job_id": 1114348,
+    "job_title": "Data Scientist Manager",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "132500.0",
+    "job_posted_date": "2023-02-03 18:50:18",
+    "company_name": "Visa",
+    "skills": "r"
+  },
+  {
+    "job_id": 1114348,
+    "job_title": "Data Scientist Manager",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "132500.0",
+    "job_posted_date": "2023-02-03 18:50:18",
+    "company_name": "Visa",
+    "skills": "spark"
+  },
+  {
+    "job_id": 1114348,
+    "job_title": "Data Scientist Manager",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "132500.0",
+    "job_posted_date": "2023-02-03 18:50:18",
+    "company_name": "Visa",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 1114348,
+    "job_title": "Data Scientist Manager",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "132500.0",
+    "job_posted_date": "2023-02-03 18:50:18",
+    "company_name": "Visa",
+    "skills": "scikit-learn"
+  },
+  {
+    "job_id": 1114348,
+    "job_title": "Data Scientist Manager",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "132500.0",
+    "job_posted_date": "2023-02-03 18:50:18",
+    "company_name": "Visa",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "sql"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "python"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "java"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "r"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "shell"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "azure"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "spark"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "unix"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "excel"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "word"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "120000.0",
+    "job_posted_date": "2023-12-10 13:11:54",
+    "company_name": "Nestlé",
+    "skills": "powerpoint"
+  },
+  {
+    "job_id": 54446,
+    "job_title": "Data Analyst, Sales",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "111202.0",
+    "job_posted_date": "2023-01-04 09:48:19",
+    "company_name": "Dialpad",
+    "skills": "sql"
+  },
+  {
+    "job_id": 54446,
+    "job_title": "Data Analyst, Sales",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "111202.0",
+    "job_posted_date": "2023-01-04 09:48:19",
+    "company_name": "Dialpad",
+    "skills": "python"
+  },
+  {
+    "job_id": 54446,
+    "job_title": "Data Analyst, Sales",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "111202.0",
+    "job_posted_date": "2023-01-04 09:48:19",
+    "company_name": "Dialpad",
+    "skills": "flow"
+  },
+  {
+    "job_id": 267445,
+    "job_title": "Data Analyst",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "111175.0",
+    "job_posted_date": "2023-05-06 04:45:07",
+    "company_name": "Publicis Groupe",
+    "skills": "sql"
+  },
+  {
+    "job_id": 267445,
+    "job_title": "Data Analyst",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "111175.0",
+    "job_posted_date": "2023-05-06 04:45:07",
+    "company_name": "Publicis Groupe",
+    "skills": "python"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "python"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "postgresql"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "databricks"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "aws"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "gcp"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "spark"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "airflow"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "kafka"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "keras"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "pytorch"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "kubernetes"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "101029.0",
+    "job_posted_date": "2023-06-16 09:07:04",
+    "company_name": "Mutt Data",
+    "skills": "docker"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "sql"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "python"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "nosql"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "firebase"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "firestore"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "bigquery"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "gcp"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "firebase"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "pyspark"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "airflow"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "linux"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "git"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "jenkins"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "98283.0",
+    "job_posted_date": "2023-03-11 00:51:48",
+    "company_name": "Publicis Groupe",
+    "skills": "docker"
+  }
+]

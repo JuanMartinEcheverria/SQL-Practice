@@ -1,0 +1,182 @@
+[
+  {
+    "job_id": 166627,
+    "job_title": "[VMB] Senior Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "147500",
+    "year_month_posted": "2023-08",
+    "company_name": "Software Mind"
+  },
+  {
+    "job_id": 616718,
+    "job_title": "Senior Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Contractor",
+    "year_salary": "147500",
+    "year_month_posted": "2023-03",
+    "company_name": "MediaLab"
+  },
+  {
+    "job_id": 729193,
+    "job_title": "Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "147500",
+    "year_month_posted": "2023-01",
+    "company_name": "Dialpad"
+  },
+  {
+    "job_id": 565214,
+    "job_title": "LAS Seeds Data Engineer",
+    "job_location": "Vicente López, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "134241",
+    "year_month_posted": "2023-08",
+    "company_name": "Syngenta Group"
+  },
+  {
+    "job_id": 1114348,
+    "job_title": "Data Scientist Manager",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "132500",
+    "year_month_posted": "2023-02",
+    "company_name": "Visa"
+  },
+  {
+    "job_id": 402016,
+    "job_title": "Digital Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "120000",
+    "year_month_posted": "2023-12",
+    "company_name": "Nestlé"
+  },
+  {
+    "job_id": 54446,
+    "job_title": "Data Analyst, Sales",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "111202",
+    "year_month_posted": "2023-01",
+    "company_name": "Dialpad"
+  },
+  {
+    "job_id": 267445,
+    "job_title": "Data Analyst",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "111175",
+    "year_month_posted": "2023-05",
+    "company_name": "Publicis Groupe"
+  },
+  {
+    "job_id": 61611,
+    "job_title": "Machine Learning Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "101029",
+    "year_month_posted": "2023-06",
+    "company_name": "Mutt Data"
+  },
+  {
+    "job_id": 672232,
+    "job_title": "Data Engineer Trainee",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "98283",
+    "year_month_posted": "2023-01",
+    "company_name": "Publicis Groupe"
+  },
+  {
+    "job_id": 532444,
+    "job_title": "Associate Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "98283",
+    "year_month_posted": "2023-03",
+    "company_name": "Publicis Groupe"
+  },
+  {
+    "job_id": 1122182,
+    "job_title": "Data Engineer - Ops Support",
+    "job_location": "Rosario, Santa Fe Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "96773",
+    "year_month_posted": "2023-03",
+    "company_name": "OZ"
+  },
+  {
+    "job_id": 182785,
+    "job_title": "[VSN] Mid Level Data Engineer",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "96773",
+    "year_month_posted": "2023-01",
+    "company_name": "Software Mind"
+  },
+  {
+    "job_id": 475354,
+    "job_title": "Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "96773",
+    "year_month_posted": "2023-06",
+    "company_name": "Mutt Data"
+  },
+  {
+    "job_id": 1001058,
+    "job_title": "Sr Data Engineer - Development",
+    "job_location": "Rosario, Santa Fe Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "96773",
+    "year_month_posted": "2023-09",
+    "company_name": "OZ"
+  },
+  {
+    "job_id": 117431,
+    "job_title": "Business Intelligence | Experts/ Managers",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "79200",
+    "year_month_posted": "2023-11",
+    "company_name": "Accenture"
+  },
+  {
+    "job_id": 293296,
+    "job_title": "Data Analyst",
+    "job_location": "Veinticinco de Mayo, Buenos Aires Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "74369",
+    "year_month_posted": "2023-12",
+    "company_name": "Cargill"
+  },
+  {
+    "job_id": 190346,
+    "job_title": "Tutor/a Data Science",
+    "job_location": "Buenos Aires, Argentina",
+    "job_schedule_type": "Part-time",
+    "year_salary": "72000",
+    "year_month_posted": "2023-07",
+    "company_name": "Coderhouse"
+  },
+  {
+    "job_id": 790899,
+    "job_title": "Data Scientist",
+    "job_location": "Venado Tuerto, Santa Fe Province, Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "70000",
+    "year_month_posted": "2023-07",
+    "company_name": "Syngenta Group"
+  },
+  {
+    "job_id": 511827,
+    "job_title": "Data Engineer",
+    "job_location": "Argentina",
+    "job_schedule_type": "Full-time",
+    "year_salary": "65000",
+    "year_month_posted": "2023-01",
+    "company_name": "Spiff"
+  }
+]

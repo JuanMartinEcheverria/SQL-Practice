@@ -30,7 +30,7 @@ It is packed with insights like job titles, salaries, locations and skills.
 
 # The Analysis
 
-Each querry focuses on investigatig specific aspects of the data analyst job market.
+Each querry focuses on investigating specific aspects of the data analyst job market.
 
 ### 1. Top Paying Data Analyst Jobs
 To identify these top-paying jobs, I filtered data jobs positions by average yearly salary and location, focusing on jobs whose location was my country, Argentina. I only cared about the month and year of the job posting, so I formatted the job posted date.  This query higlights the top ten high paying opportunities in the field offered in my country of residence. 
@@ -55,7 +55,7 @@ ORDER BY salary_year_avg DESC
 LIMIT 10
 ```
 
-With the help of ChatGPT, key insights were derived from the data. These are the following: 
+Key insights were derived from the data: 
 
 - Top Paying Roles 💸
 
@@ -128,7 +128,7 @@ ORDER BY
 
 ```
 
-These are the insights that ChatGPT unearthed from this querry: 
+These are the insights unearthed from this querry: 
 
 Insights on Skills for Top-Paying Data Jobs
  - Common Skills Across Roles:
@@ -248,8 +248,8 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 
 Finally, I want to summarize my experience pushing through this challenging yet rewarding SQL course. 
 
-I started looking for jobs a couple of months ago, and I stumbled into the difficulties that the argentinian job market presents. Since I studied Industrial Engineering, the range of jobs that I applied for ranged from on-site factory jobs to highly administtrative roles, neither of which I felt interested in. 
+I started looking for jobs a couple of months ago, and I stumbled into the difficulties that the Argentinian job market presents. Since I studied Industrial Engineering, the range of jobs that I applied for ranged from on-site factory jobs to highly administrative roles, neither of which I felt particularly interested in. 
 
-Luckily, I found the possibility of diving into the world of data, and I find this course the stepping stone to begin my journey of learning how to analyze and extract valuable insights from data. This knowledge complemented with my strong analytical backgroud will help propel me into an data related role, a field that excites me. 
+Luckily, I found the possibility of diving into the world of data, and I find this course the stepping stone to begin my journey of learning how to analyze and extract valuable insights from large data-sets. This knowledge complemented with my strong analytical backgroud will help propel me into a data related role, a field that excites me. 
 
-Is there a better way to do this, than by analysing real-world data of the job postings of the Data Analytics field?
+Is there a better way to do this, than by analysing real-world data from the job postings of the Data Analytics field?

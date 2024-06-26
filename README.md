@@ -271,6 +271,19 @@ LIMIT 25
 ```
 The insights derived from this final querry are the following, aided by ChatGPT data analysis capabilites.
 
+| Skill       | Demand Count | Average Salary |
+|-------------|---------------|----------------|
+| Go          | 27            | $115,320       |
+| Confluence  | 11            | $114,210       |
+| Hadoop      | 22            | $113,193       |
+| Snowflake   | 37            | $112,948       |
+| Azure       | 34            | $111,225       |
+| BigQuery    | 13            | $109,654       |
+| AWS         | 32            | $108,317       |
+| Java        | 17            | $106,906       |
+| SSIS        | 12            | $106,683       |
+| Jira        | 20            | $104,918       |
+*Table with the top ten highest paying skills*
 - Go: The highest-paying skill with an average salary of $115,320. Go is highly valued for its efficiency and performance in software development.
 Confluence: With an average salary of $114,210, indicating the importance of collaboration and documentation tools in project management.
 - Hadoop: Averaging $113,193, it reflects the demand for big data processing and storage expertise.

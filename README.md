@@ -257,6 +257,7 @@ These insights highlight the diverse range of high-paying skills required in the
 ### 5. Optimal Skills
 
 I proceeded to combine the analysis done in 3. and 4. to finally convey the demand and the mean salary for the different skills, helping me decide what combination of them is best to learn, in order to secure a Data Analyst role. 
+Bear in mind that this time I only care about the skills that are demanded in 10 or more jobs postings, so that I get to evaluate the skills that are demanded in various jobs, focusing in their relevance as well.  
 
 ```sql
 SELECT

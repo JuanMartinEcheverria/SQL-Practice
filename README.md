@@ -176,6 +176,21 @@ LIMIT 5
 
 Based on the analysis of the demand for skills required to become a Data Analyst in the global job market, the following key insights were derived:
 
+| Skill       | Demand Count | 
+|-------------|---------------|
+| SQL         | 7,291         | 
+| Excel       | 4,611         | 
+| Python      | 4,330         | 
+| Tableau     | 3,745         | 
+| Power BI    | 2,609         | 
+| R           | 2,011         | 
+| SQL Server  | 1,799         | 
+| SAS         | 1,561         | 
+| Hadoop      | 1,350         | 
+| Google Analytics | 1,231    | 
+*Table with the demand count of the different Data Analyst required skills*
+
+
 - SQL: The most in-demand skill for Data Analysts, with 7,291 job postings requiring proficiency in SQL. This highlights the importance of SQL for data manipulation, querying databases, and managing large datasets.
 
 - Excel: The second most sought-after skill, with 4,611 job postings. Excel remains a fundamental tool for data analysis, reporting, and visualization, showing its continued relevance in the job market.
@@ -213,7 +228,7 @@ LIMIT 25
 ```
 Insights:
 
-# Highest Paying Skills:
+- Highest Paying Skills:
 
 - PySpark: The highest paying skill with an average salary of $208,172. PySpark is crucial for big data processing and analysis using Apache Spark.
 - Bitbucket: Averages $189,155, highlighting its importance for version control and source code management in collaborative environments.
